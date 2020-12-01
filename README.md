@@ -45,7 +45,7 @@ $ ./start.sh
 * Bootstrap
 * CSS3
 * newsApi
-* 
+
 
 
 ## Contribution
@@ -54,7 +54,7 @@ You can contribute to the project by forking the project  and following the abov
 
 
 ## Support and Contacts
-For assistance,collaboration or query feel free to reachout [rodneygakur@gmail.com](email)
+For assistance,collaboration or query feel free to reachout [rodneygakur@gmail.com]my email
 
 ## Copyright and License
-Licensed under [MIT](license)
+Licensed under [MITLicense]
