@@ -57,4 +57,4 @@ You can contribute to the project by forking the project  and following the abov
 For assistance,collaboration or query feel free to reachout [rodneygakur@gmail.com]my email
 
 ## Copyright and License
-Licensed under [MIT](LICENCE)
+Licensed under [MIT licence](LICENCE)
